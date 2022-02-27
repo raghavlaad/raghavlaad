@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raghavlaad
 - 👀 I’m interested in Web3 & Blockchain
 - 🌱 I’m currently learning Web3 Development
-- 💞️ I’m looking to collaborate on Twitter
+- 💞️ I’m looking to collaborate on Twitter at @raghavlaad_
 
 <!---
 raghavlaad/raghavlaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
